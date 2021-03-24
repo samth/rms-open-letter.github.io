@@ -84,7 +84,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adrienne L. Travis
 1. Adrien "PulkoMandy" Destugues
 1. Advaith Madhukar
-1. Agatha Rose
 1. Akhil Indurti
 1. Alan Ball
 1. Alan Diggs (Schykle)
@@ -826,7 +825,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Julia Luna
 1. Julian Andres Klode
 1. Julian Bouzas (Collabora)
-1. Julian Graham (former FSF associate member)
 1. Julian Hofer (GNOME, Deltares)
 1. Julianne "KokaKiwi" Hervier
 1. Julien Cristau (Debian, X.Org, Mozilla)
@@ -1328,6 +1326,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sam Pikesley
 1. Sam Pritchard
 1. Samuel Scheiderich
+1. Sam Tobin-Hochstadt
 1. Sam van der Kris
 1. Sander van der Waal (Waag)
 1. Sandro Jäckel (NixOS contributor)
